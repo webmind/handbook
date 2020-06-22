@@ -4,10 +4,10 @@ title: Secure Domain setup
 sidebar_label: Authentication (Secure Domain)
 ---
 
-It is possible to allow only authenticated users for creating new conference
-rooms. Whenever new room is about to be created Jitsi Meet will prompt for
-user name and password. After room is created others will be able to join
-from anonymous domain. Here's what has to be configured:
+It is possible to allow only authenticated users for creating a new conference
+rooms. Whenever a new room is about to be created Jitsi Meet will prompt for a
+user name and password. After the room is created others will be able to join
+from the anonymous domain. Here's what will have to be configured:
 
 ## Prosody configuration
 
